@@ -1,0 +1,15 @@
+C:\Users\Metehan\Desktop\Service\RestFull_App\BAL\bin\Debug\net5.0\BAL.deps.json
+C:\Users\Metehan\Desktop\Service\RestFull_App\BAL\bin\Debug\net5.0\BAL.dll
+C:\Users\Metehan\Desktop\Service\RestFull_App\BAL\bin\Debug\net5.0\ref\BAL.dll
+C:\Users\Metehan\Desktop\Service\RestFull_App\BAL\bin\Debug\net5.0\BAL.pdb
+C:\Users\Metehan\Desktop\Service\RestFull_App\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+C:\Users\Metehan\Desktop\Service\RestFull_App\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\Desktop\Service\RestFull_App\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+C:\Users\Metehan\Desktop\Service\RestFull_App\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+C:\Users\Metehan\Desktop\Service\RestFull_App\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\Service\RestFull_App\BAL\obj\Debug\net5.0\BAL.dll
+C:\Users\Metehan\Desktop\Service\RestFull_App\BAL\obj\Debug\net5.0\ref\BAL.dll
+C:\Users\Metehan\Desktop\Service\RestFull_App\BAL\obj\Debug\net5.0\BAL.pdb
+C:\Users\Metehan\Desktop\Service\RestFull_App\BAL\bin\Debug\net5.0\DALL.dll
+C:\Users\Metehan\Desktop\Service\RestFull_App\BAL\bin\Debug\net5.0\DALL.pdb
+C:\Users\Metehan\Desktop\Service\RestFull_App\BAL\obj\Debug\net5.0\BAL.csproj.CopyComplete

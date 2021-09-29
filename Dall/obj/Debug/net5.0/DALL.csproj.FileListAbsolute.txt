@@ -1,0 +1,15 @@
+C:\Users\Metehan\Desktop\Service\RestFull_App\Dall\bin\Debug\net5.0\DALL.deps.json
+C:\Users\Metehan\Desktop\Service\RestFull_App\Dall\bin\Debug\net5.0\DALL.runtimeconfig.json
+C:\Users\Metehan\Desktop\Service\RestFull_App\Dall\bin\Debug\net5.0\DALL.runtimeconfig.dev.json
+C:\Users\Metehan\Desktop\Service\RestFull_App\Dall\bin\Debug\net5.0\DALL.dll
+C:\Users\Metehan\Desktop\Service\RestFull_App\Dall\bin\Debug\net5.0\ref\DALL.dll
+C:\Users\Metehan\Desktop\Service\RestFull_App\Dall\bin\Debug\net5.0\DALL.pdb
+C:\Users\Metehan\Desktop\Service\RestFull_App\Dall\obj\Debug\net5.0\DALL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\Desktop\Service\RestFull_App\Dall\obj\Debug\net5.0\DALL.AssemblyInfoInputs.cache
+C:\Users\Metehan\Desktop\Service\RestFull_App\Dall\obj\Debug\net5.0\DALL.AssemblyInfo.cs
+C:\Users\Metehan\Desktop\Service\RestFull_App\Dall\obj\Debug\net5.0\DALL.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\Service\RestFull_App\Dall\obj\Debug\net5.0\DALL.dll
+C:\Users\Metehan\Desktop\Service\RestFull_App\Dall\obj\Debug\net5.0\ref\DALL.dll
+C:\Users\Metehan\Desktop\Service\RestFull_App\Dall\obj\Debug\net5.0\DALL.pdb
+C:\Users\Metehan\Desktop\Service\RestFull_App\Dall\obj\Debug\net5.0\DALL.genruntimeconfig.cache
+C:\Users\Metehan\Desktop\Service\RestFull_App\Dall\obj\Debug\net5.0\DALL.csproj.AssemblyReference.cache
